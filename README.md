@@ -12,3 +12,4 @@ sudo systemctl enable virtsecretd.socket
 sudo systemctl enable virtsecretd.socket
 sudo systemctl enable virtstoraged.socket
 ```
+reboot
